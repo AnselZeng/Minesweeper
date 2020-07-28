@@ -4,4 +4,4 @@
 
 **Illustration:**
 
-![MinesweeperIllustration](https://giphy.com/gifs/j72AuOOx9KPxI4w6Tm)
+![MinesweeperIllustration](https://github.com/AnselZeng/Minesweeper/blob/master/Minesweeper.gif)
